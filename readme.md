@@ -1,4 +1,4 @@
-##PureMVC & Express.js example
+### Node.js, PureMVC & Express.js example
 
 - Download, then in unzipped folder:
 - npm install

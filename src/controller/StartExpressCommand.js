@@ -21,7 +21,10 @@ module.exports = function(include, puremvc) {
 				config.setPort(8080);
 				config.setViewCache(false);
 				
+				
+				
 				expressMediator.addComponent("npmvc-express-example-route");
+
 				
 				this.facade.sendNotification("START_EXPRESS_SERVER",config);
 			}

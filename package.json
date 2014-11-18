@@ -6,10 +6,11 @@
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies":{
-  	"npmvc":">=1.0.1",
-    "npmvc-express":">=1.0.0",
-    "npmvc-express-middleware-handlebars": ">=1.0.1"
+  "dependencies": {
+    "npmvc": ">=1.0.1",
+    "npmvc-express": ">=1.0.0",
+    "npmvc-express-middleware-handlebars": ">=1.0.1",
+    "npmvc-express-middleware-static-files": ">=1.0.1"
   },
   "author": "Robbert Streng",
   "license": "MIT"
